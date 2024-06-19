@@ -1,0 +1,892 @@
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на получение всех пользователей
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на получение всех пользователей
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на получение всех пользователей
+Запрос на получение всех пользователей
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на получение всех пользователей
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на получение всех пользователей
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на получение всех пользователей
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+Now listening on: https://localhost:7291
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: https://localhost:7291
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: https://localhost:7291
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Failed executing DbCommand (98ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?' (DbType = DateTime), @p4='?', @p5='?', @p6='?', @p7='?' (DbType = Object), @p8='?' (DbType = Int32), @p9='?', @p10='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+INSERT INTO advertisements ("Id", "Category", "City", "CreatedAt", "Description", "HomeNumber", "Name", "PhotoUrls", "Price", "Street", "UserId")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10);
+An exception occurred in the database while saving changes for context type 'SemWorkAsp.DataAccess.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23502: значение NULL в столбце "HomeNumber" отношения "advertisements" нарушает ограничение NOT NULL
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23502
+    MessageText: значение NULL в столбце "HomeNumber" отношения "advertisements" нарушает ограничение NOT NULL
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: advertisements
+    ColumnName: HomeNumber
+    File: execMain.c
+    Line: 2009
+    Routine: ExecConstraints
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Failed executing DbCommand (209ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?', @p4='?' (DbType = DateTime), @p5='?', @p6='?', @p7='?' (DbType = Object), @p8='?' (DbType = Int32), @p9='?', @p10='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+INSERT INTO advertisements ("Id", "Building", "Category", "City", "CreatedAt", "Description", "Name", "PhotoUrls", "Price", "Street", "UserId")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10);
+An exception occurred in the database while saving changes for context type 'SemWorkAsp.DataAccess.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "advertisements" нарушает ограничение внешнего ключа "FK_advertisements_users_UserId"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "advertisements" нарушает ограничение внешнего ключа "FK_advertisements_users_UserId"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: advertisements
+    ConstraintName: FK_advertisements_users_UserId
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An unhandled exception has occurred while executing the request.
+Failed executing DbCommand (5ms) [Parameters=[@p0='?' (DbType = Guid), @p1='?', @p2='?', @p3='?', @p4='?' (DbType = DateTime), @p5='?', @p6='?', @p7='?' (DbType = Object), @p8='?' (DbType = Int32), @p9='?', @p10='?' (DbType = Guid)], CommandType='Text', CommandTimeout='30']
+INSERT INTO advertisements ("Id", "Building", "Category", "City", "CreatedAt", "Description", "Name", "PhotoUrls", "Price", "Street", "UserId")
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10);
+An exception occurred in the database while saving changes for context type 'SemWorkAsp.DataAccess.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Npgsql.PostgresException (0x80004005): 23503: INSERT или UPDATE в таблице "advertisements" нарушает ограничение внешнего ключа "FK_advertisements_users_UserId"
+
+DETAIL: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 23503
+    MessageText: INSERT или UPDATE в таблице "advertisements" нарушает ограничение внешнего ключа "FK_advertisements_users_UserId"
+    Detail: Detail redacted as it may contain sensitive data. Specify 'Include Error Detail' in the connection string to include this information.
+    SchemaName: public
+    TableName: advertisements
+    ConstraintName: FK_advertisements_users_UserId
+    File: ri_triggers.c
+    Line: 2619
+    Routine: ri_ReportViolation
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An error occurred using the connection to database 'semwork_asp' on server 'tcp://localhost:5432'.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An error occurred using the connection to database 'semwork_asp' on server 'tcp://localhost:5432'.
+An exception occurred while iterating over the results of a query for context type 'SemWorkAsp.DataAccess.ApplicationDbContext'.
+System.InvalidOperationException: An exception has been raised that is likely due to a transient failure.
+ ---> Npgsql.NpgsqlException (0x80004005): The operation has timed out
+ ---> System.TimeoutException: The operation has timed out.
+   at Npgsql.ThrowHelper.ThrowNpgsqlExceptionWithInnerTimeoutException(String message)
+   at Npgsql.Util.NpgsqlTimeout.Check()
+   at Npgsql.Util.NpgsqlTimeout.CheckAndGetTimeLeft()
+   at Npgsql.Util.NpgsqlTimeout.CheckAndApply(NpgsqlConnector connector)
+   at Npgsql.Internal.NpgsqlConnector.RawOpen(SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.<Open>g__OpenCore|213_1(NpgsqlConnector conn, SslMode sslMode, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken, Boolean isFirstAttempt)
+   at Npgsql.Internal.NpgsqlConnector.Open(NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.OpenNewConnector(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.PoolingDataSource.<Get>g__RentAsync|34_0(NpgsqlConnection conn, NpgsqlTimeout timeout, Boolean async, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlConnection.<Open>g__OpenAsync|42_0(Boolean async, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenInternalAsync(Boolean errorsExpected, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalConnection.OpenAsync(CancellationToken cancellationToken, Boolean errorsExpected)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+An unhandled exception has occurred while executing the request.
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Failed executing DbCommand (18ms) [Parameters=[@__p_1='?' (DbType = Int32), @__p_0='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT a0."Id", a0."Name", a0."Price", u."Name" AS "Username"
+FROM (
+    SELECT a."Id", a."CreatedAt", a."Name", a."Price", a."UserId"
+    FROM advertisements AS a
+    ORDER BY a."CreatedAt"
+    LIMIT @__p_1 OFFSET @__p_0
+) AS a0
+INNER JOIN users AS u ON a0."UserId" = u."Id"
+ORDER BY a0."CreatedAt"
+An exception occurred while iterating over the results of a query for context type 'SemWorkAsp.DataAccess.ApplicationDbContext'.
+Npgsql.PostgresException (0x80004005): 2201X: OFFSET не может быть отрицательным
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 2201X
+    MessageText: OFFSET не может быть отрицательным
+    File: nodeLimit.c
+    Line: 374
+    Routine: recompute_limits
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An error occurred using the connection to database 'semwork_asp' on server 'tcp://localhost:5432'.
+Failed executing DbCommand (34ms) [Parameters=[@__price_Item1_0='?' (DbType = Int32), @__price_Item2_1='?' (DbType = Int32), @__type_2='?', @__p_4='?' (DbType = Int32), @__p_3='?' (DbType = Int32)], CommandType='Text', CommandTimeout='30']
+SELECT a0."Id", a0."Name", a0."Price", u."Name" AS "Username"
+FROM (
+    SELECT a."Id", a."CreatedAt", a."Name", a."Price", a."UserId"
+    FROM advertisements AS a
+    WHERE a."Price" >= @__price_Item1_0 AND a."Price" <= @__price_Item2_1 AND a."Category" = @__type_2
+    ORDER BY a."CreatedAt"
+    LIMIT @__p_4 OFFSET @__p_3
+) AS a0
+INNER JOIN users AS u ON a0."UserId" = u."Id"
+ORDER BY a0."CreatedAt"
+An exception occurred while iterating over the results of a query for context type 'SemWorkAsp.DataAccess.ApplicationDbContext'.
+Npgsql.PostgresException (0x80004005): 2201X: OFFSET не может быть отрицательным
+   at Npgsql.Internal.NpgsqlConnector.ReadMessageLong(Boolean async, DataRowLoadingMode dataRowLoadingMode, Boolean readingNotifications, Boolean isReadingPrependedMessage)
+   at System.Runtime.CompilerServices.PoolingAsyncValueTaskMethodBuilder`1.StateMachineBox`1.System.Threading.Tasks.Sources.IValueTaskSource<TResult>.GetResult(Int16 token)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlDataReader.NextResult(Boolean async, Boolean isConsuming, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteReader(Boolean async, CommandBehavior behavior, CancellationToken cancellationToken)
+   at Npgsql.NpgsqlCommand.ExecuteDbDataReaderAsync(CommandBehavior behavior, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReaderAsync(RelationalCommandParameterObject parameterObject, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.InitializeReaderAsync(AsyncEnumerator enumerator, CancellationToken cancellationToken)
+   at Npgsql.EntityFrameworkCore.PostgreSQL.Storage.Internal.NpgsqlExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+  Exception data:
+    Severity: ОШИБКА
+    SqlState: 2201X
+    MessageText: OFFSET не может быть отрицательным
+    File: nodeLimit.c
+    Line: 374
+    Routine: recompute_limits
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Запрос на вход в аккаунт
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Запрос на вход в аккаунт
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на регистрацию
+Запрос на регистрацию
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на регистрацию
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на регистрацию
+Запрос на вход в аккаунт
+Запрос на регистрацию
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Ошибка при входе в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на регистрацию
+Запрос на регистрацию
+Запрос на регистрацию
+Запрос на регистрацию
+Запрос на регистрацию
+Запрос на регистрацию
+Запрос на регистрацию
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+An error occurred using the connection to database 'semwork_asp' on server 'tcp://localhost:5432'.
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+An unhandled exception has occurred while executing the request.
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Запрос на вход в аккаунт
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Запрос на регистрацию
+Запрос на вход в аккаунт
+Запрос на регистрацию
+Запрос на вход в аккаунт
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+An error occurred using the connection to database 'semwork_asp' on server 'tcp://localhost:5432'.
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Запрос на вход в аккаунт
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Application is shutting down...
+Now listening on: http://localhost:5038
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\asflp\sem-work-asp-asflp\src\SemWorkAsp\Hosts\SemWorkAsp.Api
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+Запрос на вход в аккаунт
+запрос на пооучение всех объявлений
+запрос на пооучение всех объявлений
+Application is shutting down...
